@@ -1,0 +1,80 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Conda environments
+*.conda
+*.ipynb_checkpoints
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Logs and debugging
+*.log
+*.out
+*.err
+
+# Model files
+*.h5
+*.hdf5
+*.pth
+*.pt
+*.ckpt
+*.joblib
+*.pkl
+*.sav
+
+# TensorBoard logs
+logs/
+runs/
+
+# Environment/data files
+*.csv
+*.tsv
+*.npz
+*.npy
+*.db
+*.sqlite
+*.feather
+*.parquet
+
+# Cache
+.cache/
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Test coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+
+# MyPy, Pyre, and other tools
+.mypy_cache/
+.pyre/
+.pytype/
+.dmypy.json
+
+# Misc
+*.bak
+*.swp
