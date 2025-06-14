@@ -62,6 +62,7 @@ runs/
 *.egg
 dist/
 build/
+artifacts/
 
 # Test coverage reports
 htmlcov/
